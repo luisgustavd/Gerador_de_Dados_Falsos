@@ -1,22 +1,20 @@
 ### 🌐 Gerador de Dados Falsos (ISP Edition) 🚀
 
-Este repositório contém um script Python desenvolvido para a geração de dados fictícios e realistas, ideal para popular bancos de dados de teste ou criar datasets para estudos de análise de dados e programação.
+Este repositório contém um script Python desenvolvido para a geração de dados fictícios contextualizados de acordo com minha realizada profissional, ideal para gerar massa de dados de teste ou criar datasets para estudos de visualização de dados e eventualmente programação.
 
 ### 📡 Contexto do Projeto
 
-O foco principal deste gerador é o setor de Provedores de Internet (ISP). O script foi desenhado para simular uma base de dados operacional, permitindo que desenvolvedores e analistas trabalhem com estruturas de dados comuns nesse mercado sem lidar com informações sensíveis de clientes reais.
+O foco principal deste gerador é o setor de Provedores de Internet (ISP). O script foi desenhado para simular uma base de dados operacional simples, permitindo que desenvolvedores e analistas trabalhem com estruturas de dados comuns nesse mercado sem lidar com informações sensíveis de clientes reais.
 
 ### 📋 A Tabela de Clientes
 
 A principal funcionalidade é a criação de uma Tabela de Clientes robusta, que inclui campos como:
 
->👤 Dados Pessoais: Nome, CPF/CNPJ e data de nascimento.
+>👤 Dados Pessoais: ID,Nome, idade, cargo profissional,telefone.
 
->📍 Localização: Endereço completo para simular viabilidade técnica.
+>💻 Serviços: Plano contratado (ex:Plano Básico - 500 Mega, Plano Pro - 750 Mega e Plano Full - 1Giga), data de Assinatura/Instalação.
 
->💻 Serviços: Plano contratado (ex: Fibra 500 Mega), status da assinatura e data de instalação.
-
->💰 Financeiro: Valor da mensalidade e histórico de status de pagamento.
+>💰 Financeiro: Valor da fatura mensal(Plano Básico - R$99,90, Plano Pro - R$124,90, Plano Full - R$159,90).
 
 ### 🛠️ Tecnologias e Ferramentas
 
