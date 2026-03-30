@@ -1,6 +1,6 @@
 ### 🌐 Gerador de Dados Falsos (ISP Edition) 🚀
 
-Este repositório contém um script Python desenvolvido para a geração de dados fictícios contextualizados de acordo com minha realizada profissional, ideal para gerar massa de dados de teste ou criar datasets para estudos de visualização de dados e eventualmente programação.
+Este repositório contém um script Python desenvolvido para a geração de dados fictícios contextualizados de acordo com minha realizada profissional. Neste código será gerado duas massas de dados de teste(Tabela de Clientes e Tabela de Instalações) com objetivo de inicializar um dataset para estudos de visualização de dados e eventualmente programação.
 
 ### 📡 Contexto do Projeto
 
@@ -8,13 +8,20 @@ O foco principal deste gerador é o setor de Provedores de Internet (ISP). O scr
 
 ### 📋 A Tabela de Clientes
 
-A principal funcionalidade é a criação de uma Tabela de Clientes robusta, que inclui campos como:
+A principal funcionalidade é a criação de uma Tabela de Clientes simples, que inclui campos como:
 
 >👤 Dados Pessoais: ID,Nome, idade, cargo profissional,telefone.
 
 >💻 Serviços: Plano contratado (ex:Plano Básico - 500 Mega, Plano Pro - 750 Mega e Plano Full - 1Giga), data de Assinatura/Instalação.
 
 >💰 Financeiro: Valor da fatura mensal(Plano Básico - R$99,90, Plano Pro - R$124,90, Plano Full - R$159,90).
+
+E uma Tabela de Instalações, que inclui campos como:
+
+>🛠️ Dados de Instalação: ID(id do cliente parsed),nome do técnico responsável, data da instalação.
+
+>📋 Parâmetros técnico:sinal_dbm, status_sinal, nº de reclamações nos últimos 90 dias. 
+
 
 ### 🛠️ Tecnologias e Ferramentas
 
