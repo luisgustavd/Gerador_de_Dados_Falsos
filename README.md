@@ -2,7 +2,7 @@
 
 Este repositório contém um script Python desenvolvido para a geração de dados fictícios contextualizados de acordo com minha realidade profissional atual. Neste código será gerado duas massas de dados de teste(Tabela de Clientes e Tabela de Instalações) com objetivo de inicializar um dataset para estudos de visualização de dados e eventualmente programação.
 
-Neste link é possível visualizar um resumo do algoritmo na plataforma Notion:https://www.notion.so/Projeto-de-Dados-I-299dcbd225b28041863ff72789d3d34d?source=copy_link
+Neste link é possível visualizar um resumo do algoritmo na plataforma Notion [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Projeto-de-Dados-I-299dcbd225b28041863ff72789d3d34d?source=copy_link)
 
 ### 📡 Contexto do Projeto
 
